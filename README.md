@@ -1,1 +1,2 @@
 # odin-recipes
+This will be a really simple recipes website using the basic commands of HTML like adding images, links, lists, paragraphs, headings, and bold/italic text! I hope it will turn out great!
